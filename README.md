@@ -22,11 +22,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonNunesMachado&show_icons=true&theme=radial)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonNunesMachado&layout=compact&theme=radial)
 
 ---
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonnunesmachado)
